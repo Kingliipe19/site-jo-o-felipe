@@ -3,7 +3,7 @@
 Bem-vindo ao repositório do meu site 
 Este projeto foi desenvolvido para mostrar um pouco do meu começo estudando javascript, html e css, a única função presente no site é mudar o tema dele.
 
-🔗 **Acesse o site:** *(https://github.com/Kingliipe19)*
+🔗 **Acesse o site:** *([https://github.com/Kingliipe19](https://github.com/Kingliipe19/site-jo-o-felipe.git))*
 
 ## Habilidades Técnicas
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
